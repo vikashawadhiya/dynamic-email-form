@@ -1,0 +1,17 @@
+.App {
+  padding: 20px;
+  font-family: Arial;
+  max-width: 600px;
+  margin: auto;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+}
